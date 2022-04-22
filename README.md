@@ -12,7 +12,7 @@ I am a experienced software developer, always willing to learn about new develop
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 
 ## Technologies that I enjoy
-<img src="https://img.shields.io/badge/GraphQL%20-e535ab.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL%20-e535ab.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" /> <img>
 
 ## Most used Languages
 
