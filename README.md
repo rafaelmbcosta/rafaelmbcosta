@@ -14,7 +14,3 @@ I am a experienced software developer, always willing to learn about new develop
 
 ## Technologies that I enjoy
 <img src="https://img.shields.io/badge/GraphQL%20-e535ab.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" /> 
-
-## Most used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmbcosta&show_icons=true&layout=compact&theme=radical)](https://github.com/rafaelmbcosta/github-readme-stats)
