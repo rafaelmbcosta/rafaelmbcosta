@@ -1,6 +1,6 @@
 ## Hi, I'm Rafael Costa
 
-I am a experienced software developer, always willing to learn about new development techniques and technologies.
+I am an experienced software developer, always willing to learn about new development techniques and technologies.
 
 ## Main Skills
 
